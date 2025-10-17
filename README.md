@@ -1,4 +1,4 @@
-contains option chain settings filterations
+contains option chain settings filtration
 
 ![Image](https://github.com/user-attachments/assets/bdce35f7-00d2-4d8b-894f-895d9acf58b9)
 
